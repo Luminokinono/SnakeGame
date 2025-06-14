@@ -1,2 +1,2 @@
 # SnakeGame
-Mon premier projet consiste à développer un jeu vidéo 2D en C++ à l'aide de la bibliothèque graphique SFML. Le jeu sélectionné est Snake, un classique dans lequel le joueur contrôle un serpent se déplaçant sur une grille pour attraper de la nourriture générée de façon aléatoire. À chaque aliment consommé, le serpent grandit, rendant la gestion de ses déplacements de plus en plus complexe.
+This project involves developing a 2D video game in C++ using the SFML graphics library. The selected game is Snake, a classic in which the player controls a snake moving on a grid to catch food that appears randomly. Each time the snake eats, it grows, making its movement increasingly difficult to manage.
